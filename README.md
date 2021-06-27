@@ -1,4 +1,4 @@
-### Welcome to my profile :) , I'm z3ntl3 root 👋
+### Cya
 
 [![Website](https://img.shields.io/website?label=scorpion-hackz.com&style=for-the-badge&url=https://scorpion-hackz.com)](https://scorpion-hackz.com)
 ## I am 17 years old and interested in writing pentest & hack tools.
