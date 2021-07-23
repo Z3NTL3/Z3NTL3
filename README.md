@@ -7,9 +7,8 @@
 - ⚡ In my spare time I do gym and coding.
 
 ### Coding languages ​​that I am currently learning or already know.
-<p>• Python</p>
-<p>• Javascript</p>
-<p>• C#</p>
+<p>• Python (knowledge)</p>
+<p>• Go (learning)</p>
 <br />
 
 
