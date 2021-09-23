@@ -1,6 +1,6 @@
 ### Cya
 
-[![Website](https://img.shields.io/website?label=scorpion-hackz.com&style=for-the-badge&url=https://scorpion-hackz.com)](https://scorpion-hackz.com)
+[![Website](https://img.shields.io/website?label=scorpion-hackz.com&style=for-the-badge&url=https://lowkeypanel.me)](https://lowkeypanel.me)
 ## I am 17 years old and interested in writing pentest & hack tools.
 
 - ⚡ Studying Software Developer at a Secondary Vocational Education
@@ -9,7 +9,8 @@
 ### Coding languages ​​that I am currently learning or already know.
 <p>• Python (knowledge)</p>
 <p>• Go (learning)</p>
+<p>• PHP (learning)</p>
 <br />
 
 
-[website]: https://scorpion-hackz.com
+[website]: https://lowkeypanel.me
