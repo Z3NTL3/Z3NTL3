@@ -1,6 +1,4 @@
-### Cya
-
-[![Website](https://img.shields.io/website?label=lowkeypanel.me&style=for-the-badge&url=https://lowkeypanel.me)](https://lowkeypanel.me)
+### ;-;
 ## I am 17 years old and interested in writing pentest & hack tools.
 
 - ⚡ Studying Software Developer at a Secondary Vocational Education
