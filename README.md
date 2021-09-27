@@ -1,4 +1,3 @@
-### ;-;
 ## I am 17 years old and interested in writing SOME TOOLS.
 
 - ⚡ Studying Software Developer at a Secondary Vocational Education
