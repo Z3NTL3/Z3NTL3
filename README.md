@@ -1,4 +1,4 @@
-## Hi I am someone who lives underground called Z3NTL3 :)
+
 And uh... I'm 17 years old. That's all you need to know about me.<br>
 
 - ⚡ My whole day is about doing sport and coding.
