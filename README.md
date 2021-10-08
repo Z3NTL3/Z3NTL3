@@ -5,6 +5,7 @@
 
 ### Coding languages ​​that I am currently learning or already know.
 <p>• Python (knowledge)</p>
+<p>• C (learning)</p>
 <p>• Go (learning)</p>
 <br />
 
