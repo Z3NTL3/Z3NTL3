@@ -20,7 +20,7 @@ async def Info():
     ,t=titel,
     clr='\033[0m') + ":",holder)
     await asyncio.sleep(0.5)
-''' 🇹🇷/🇳🇱 🌪 '''
+    
 asyncio.run(Info())
 ```
 
