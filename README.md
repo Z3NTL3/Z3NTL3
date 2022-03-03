@@ -29,7 +29,8 @@ Output
 ```
 ![meboi](https://user-images.githubusercontent.com/48758770/154814337-cae0fcd8-afec-4ee6-831a-6613c49217bc.gif)
 
-```js //More About Me?
+```js
+// Wanna want to know more About Me?
 var ga = Math.random() * (18 * 3);
 const AboutMe = ['Z3NTL3', '17', 'Gym', `${ga}`];
 
