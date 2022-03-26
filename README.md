@@ -1,5 +1,5 @@
 # Who am I
-I'm Efdal and I have been interested in pentesting since I was 12 years old. I started as a 'skid' and expanded my knowledge by becoming a developer once I was 14 years old, do not get angry but I will give you a float representation of my age; I am 17.4 years old now. I have expert Python programming knowledge and I'm currently learning and interested in languages like NodeJS, Go , C and Rust.
+My name is Efdal and I am a 17 year-old student. I am very passionate about getting acquainted with new programming concepts. I like low-level programming ever since I first started exploring the field. Recently I started mastering C which will take a while. My background as a python expert will help me through this journey.
 
 <a href="https://www.youtube.com/watch?v=MRoR9SuKCfE">
   Wordress Automatic XPLOITER BOT
