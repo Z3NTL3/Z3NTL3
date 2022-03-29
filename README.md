@@ -7,7 +7,7 @@ Representation of my age:
 #include <stdlib.h>
 
 int erbij(int* getal){
-    *getal = 17;
+    *getal = *getal + 1;
 }
 
 int main()
@@ -31,3 +31,4 @@ int main()
     return 0;
 }
 ```
+
