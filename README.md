@@ -27,7 +27,7 @@ int main()
     );
     
     printf("My age: %d\n", mijnLeeftijd);
-    // i know i did doo this in the hard way, i like doing things in hard ways instead of easy ways.
+    // i know i did doo this in the hard way, i like doing things in hard ways instead of choosing the easy way.
     return 0;
 }
 ```
