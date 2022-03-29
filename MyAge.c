@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 int erbij(int* getal){
-    *getal = 17;
+    *getal = getal + 17;
 }
 
 int main()
