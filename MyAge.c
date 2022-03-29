@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int erbij(int* getal){
-    *getal = *getal + 1;
+int erbij(int** getal){
+    **getal = (**getal + 1) / 2* 2 + 1;
 }
 
 int main()
@@ -18,11 +18,13 @@ int main()
 
     int mijnLeeftijd = *(leeftijd) + *(leeftijd+1) + 9;
     
+    int *p = &mijnLeeftijd;
+    int **pp = &p;
+    
     erbij(
-        &mijnLeeftijd
+        &p
     );
     
     printf("My age: %d\n", mijnLeeftijd);
-    // Puzzle my AGE :)
-   return 0;
+    return 0;
 }
