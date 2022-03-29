@@ -3,11 +3,12 @@ My name is Efdal and I am a 17 year-old student. I am very passionate about gett
 
 ### Puzzle my age
 ```c
+
 #include <stdio.h>
 #include <stdlib.h>
 
-int erbij(int** getal){
-    **getal = (**getal + 1) / 2* 2 + 1;
+int erbij(int*** getal){
+    ***getal = (***getal + 2) / 2 * 2 - 1;
 }
 
 int main()
@@ -26,12 +27,13 @@ int main()
     int **pp = &p;
     
     erbij(
-        &p
+        &pp
     );
     
     printf("My age: %d\n", mijnLeeftijd);
     return 0;
 }
+
 
 ```
 
