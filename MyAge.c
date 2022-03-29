@@ -23,6 +23,6 @@ int main()
     );
     
     printf("My age: %d\n", mijnLeeftijd);
-    // i know i did doo this in the hard way, i like doing things in hard ways instead of easy ways.
-    return 0;
+    // Puzzle my AGE :)
+   return 0;
 }
