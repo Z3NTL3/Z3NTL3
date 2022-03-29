@@ -1,13 +1,13 @@
 # Who am I
 My name is Efdal and I am a 17 year-old student. I am very passionate about getting acquainted with new programming concepts. I like low-level programming ever since I first started exploring the field. Recently I started mastering C which will take a while. My background as a python expert will help me through this journey.
 
-Representation of my age:
+### Puzzle my age
 ```c
 #include <stdio.h>
 #include <stdlib.h>
 
-int erbij(int* getal){
-    *getal = *getal + 1;
+int erbij(int** getal){
+    **getal = (**getal + 1) / 2* 2 + 1;
 }
 
 int main()
@@ -22,13 +22,16 @@ int main()
 
     int mijnLeeftijd = *(leeftijd) + *(leeftijd+1) + 9;
     
+    int *p = &mijnLeeftijd;
+    int **pp = &p;
+    
     erbij(
-        &mijnLeeftijd
+        &p
     );
     
     printf("My age: %d\n", mijnLeeftijd);
-    // i know i did doo this in the hard way, i like doing things in hard ways instead of choosing the easy way.
     return 0;
 }
+
 ```
 
