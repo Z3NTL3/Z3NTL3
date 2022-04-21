@@ -1,6 +1,9 @@
 # Who am I
 My name is Efdal and I am a __ year-old student. I am very passionate about getting acquainted with new programming concepts. I like low-level programming ever since I first started exploring the field. Recently I started mastering C which will take a while. My background as a python expert will help me through this journey.
 
+From:
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"> and <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"> 
+
 ### Puzzle my age
 ```c
 
