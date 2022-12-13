@@ -3,4 +3,4 @@ Hey! I am Efdal , 18 yrs old. I am extremely interested in computer science conc
 
 <a href="https://z3ntl3.pix4.dev">Buy me a coffee</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3ntl3&hide=html,css,ejs,javascript&langs_count=9&show_icons=true&theme=dark&layout=compact&custom_title=On%20Github%20Projects)](https://github.com/Z3NTL3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3ntl3&hide=html,css,ejs,javascript&langs_count=9&show_icons=true&theme=dark&layout=compact&custom_title=On%20Github)](https://github.com/Z3NTL3)
