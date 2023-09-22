@@ -1,5 +1,6 @@
 ### Intro
-Hey! I am Efdal , 18 yrs old. I am extremely interested in computer science concepts and algorithms. Experienced in languages like: Go, Typescript, JS (Node backend), Py & C#. With a driven state I push my self into the void, of the infinite limit of knowledge.<br>
+Passionate developer building CLI, web servers, APIs, bots and microservices.
+- Currently mastering Flutter & Dart
 
 <a href="https://z3ntl3.pix4.dev">Buy me a coffee</a>
 
