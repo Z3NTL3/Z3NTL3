@@ -1,5 +1,5 @@
 ### Intro
-Passionate developer building CLI, web servers, APIs, bots and microservices.
+Passionate developer building CLI, web servers, APIs, bots microservices, desktop and mobile applications.
 - Currently mastering Flutter & Dart
 
 <a href="https://www.buymeacoffee.com/z3ntl3">Buy me a coffee</a>
